@@ -31,6 +31,10 @@ Hi, I'm Ali.  <br>I'm a Python developer with experience in Machine Learning and
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/stable/contents.html) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/python/) [![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=flat-square&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs) [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/api/) [![MNE](https://img.shields.io/badge/MNE-blue.svg?style=flat-square&logo=python&logoColor=white)](https://mne.tools/stable/index.html)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ali-119&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ali-119&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-119&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=ali-119&theme=merko&hide_border=true"
+    height="180"
+  />
+</p>
