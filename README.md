@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Ali.  <br>I'm a Python developer with experience in Machine Learning and applied data analysis.<br><br>My work includes data preprocessing, feature engineering, model training, evaluation, and analysis across supervised and unsupervised learning tasks.  <br>I focus on building reliable, interpretable models and understanding their behavior under different conditions.
+Hi, I'm Ali.
+
+Biomedical Engineering student and Python developer focused on Machine Learning, Deep Learning, and Computer Vision.
+
+Currently exploring OpenCV and modern AI techniques, with a particular interest in biomedical applications and the intersection of AI and biology.
 
 
 ## 🌐 Socials:
