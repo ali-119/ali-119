@@ -68,7 +68,7 @@ My work sits where **images and biological signals meet models**: I like taking 
 
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ali.hz87980@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=3FB950"/></a>
-  <a href="https://www.linkedin.com/in/gasdam-undefined-7b1607415/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=3FB950"/></a>
+  <a href="https://www.linkedin.com/in/ali-hz-7b1607415/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=3FB950"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,100:0B3D2E&height=90&section=footer" width="100%"/>
